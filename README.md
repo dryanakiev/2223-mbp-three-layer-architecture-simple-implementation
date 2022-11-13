@@ -4,9 +4,9 @@ This is an nonprofit example of a blood bank management system. Example used for
 
 
 ## Tools and Technologies Used
-1. C# Programming Language
+1. Java Programming Language
 2. MS SQL Server 2018
-3. Microsoft Visual Studio (2022)
+3. InteliJ (2022)
 4. Git & Github (Version Control)
 
 
